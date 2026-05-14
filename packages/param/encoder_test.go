@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	shimjson "github.com/stainless-sdks/bjw-test-bella-go/internal/encoding/json"
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/param"
+	shimjson "github.com/w4-baejinwoo/bjw-test-bella-go/internal/encoding/json"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/param"
 )
 
 type Struct struct {

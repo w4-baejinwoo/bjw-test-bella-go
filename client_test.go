@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/bjw-test-bella-go"
-	"github.com/stainless-sdks/bjw-test-bella-go/internal"
-	"github.com/stainless-sdks/bjw-test-bella-go/option"
+	"github.com/w4-baejinwoo/bjw-test-bella-go"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/option"
 )
 
 type closureTransport struct {

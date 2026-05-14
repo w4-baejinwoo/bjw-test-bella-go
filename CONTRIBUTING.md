@@ -41,7 +41,7 @@ To use a local version of this library from source in another project, edit the 
 directive. This can be done through the CLI with the following:
 
 ```sh
-$ go mod edit -replace github.com/stainless-sdks/bjw-test-bella-go=/path/to/bjw-test-bella-go
+$ go mod edit -replace github.com/w4-baejinwoo/bjw-test-bella-go=/path/to/bjw-test-bella-go
 ```
 
 ## Running tests

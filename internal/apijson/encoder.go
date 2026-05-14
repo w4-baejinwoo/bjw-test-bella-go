@@ -13,7 +13,7 @@ import (
 
 	"github.com/tidwall/sjson"
 
-	shimjson "github.com/stainless-sdks/bjw-test-bella-go/internal/encoding/json"
+	shimjson "github.com/w4-baejinwoo/bjw-test-bella-go/internal/encoding/json"
 )
 
 var encoders sync.Map // map[encoderEntry]encoderFunc
