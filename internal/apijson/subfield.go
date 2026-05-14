@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/respjson"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/respjson"
 	"reflect"
 )
 

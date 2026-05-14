@@ -3,8 +3,8 @@ package apijson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/apijson"
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/param"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/apijson"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/param"
 	"reflect"
 	"testing"
 )

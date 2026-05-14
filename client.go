@@ -9,8 +9,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/requestconfig"
-	"github.com/stainless-sdks/bjw-test-bella-go/option"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/requestconfig"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with

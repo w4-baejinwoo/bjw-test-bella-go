@@ -3,8 +3,8 @@
 package bjwtestbella
 
 import (
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/apierror"
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/param"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/apierror"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/param"
 )
 
 // aliased to make [param.APIUnion] private when embedding

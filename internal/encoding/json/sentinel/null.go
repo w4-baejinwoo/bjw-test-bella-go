@@ -1,7 +1,7 @@
 package sentinel
 
 import (
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/encoding/json/shims"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/encoding/json/shims"
 	"reflect"
 	"sync"
 )
