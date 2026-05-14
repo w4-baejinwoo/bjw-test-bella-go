@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/bjw-test-bella-go/internal"
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/apierror"
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/apiform"
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/apiquery"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/apierror"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/apiform"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {

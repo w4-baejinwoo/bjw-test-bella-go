@@ -3,7 +3,7 @@ package param
 import (
 	"encoding/json"
 	"fmt"
-	shimjson "github.com/stainless-sdks/bjw-test-bella-go/internal/encoding/json"
+	shimjson "github.com/w4-baejinwoo/bjw-test-bella-go/internal/encoding/json"
 	"time"
 )
 

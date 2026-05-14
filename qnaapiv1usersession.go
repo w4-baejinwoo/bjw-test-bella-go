@@ -10,11 +10,11 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/apijson"
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/requestconfig"
-	"github.com/stainless-sdks/bjw-test-bella-go/option"
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/param"
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/respjson"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/apijson"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/requestconfig"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/option"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/param"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/respjson"
 )
 
 // QnaAPIV1UserSessionService contains methods and other services that help with

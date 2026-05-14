@@ -11,15 +11,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/requestconfig"
 	"github.com/tidwall/sjson"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/requestconfig"
 )
 
 // RequestOption is an option for the requests made by the bjw-test-bella API Client
 // which can be supplied to clients, services, and methods. You can read more about this functional
 // options pattern in our [README].
 //
-// [README]: https://pkg.go.dev/github.com/stainless-sdks/bjw-test-bella-go#readme-requestoptions
+// [README]: https://pkg.go.dev/github.com/w4-baejinwoo/bjw-test-bella-go#readme-requestoptions
 type RequestOption = requestconfig.RequestOption
 
 // WithBaseURL returns a RequestOption that sets the BaseURL for the client.

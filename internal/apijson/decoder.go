@@ -7,7 +7,7 @@ package apijson
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/param"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/param"
 	"reflect"
 	"strconv"
 	"sync"

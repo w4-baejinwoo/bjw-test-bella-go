@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/bjw-test-bella-go
+module github.com/w4-baejinwoo/bjw-test-bella-go
 
 go 1.22
 

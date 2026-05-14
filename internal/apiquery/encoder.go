@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stainless-sdks/bjw-test-bella-go/packages/param"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/packages/param"
 )
 
 var encoders sync.Map // map[reflect.Type]encoderFunc

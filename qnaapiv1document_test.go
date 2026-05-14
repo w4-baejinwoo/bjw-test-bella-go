@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/bjw-test-bella-go"
-	"github.com/stainless-sdks/bjw-test-bella-go/internal/testutil"
-	"github.com/stainless-sdks/bjw-test-bella-go/option"
+	"github.com/w4-baejinwoo/bjw-test-bella-go"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/internal/testutil"
+	"github.com/w4-baejinwoo/bjw-test-bella-go/option"
 )
 
 func TestQnaAPIV1DocumentBulkNew(t *testing.T) {
