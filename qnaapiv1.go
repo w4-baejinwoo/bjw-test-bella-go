@@ -26,10 +26,9 @@ import (
 // automatically. You should not instantiate this service directly, and instead use
 // the [NewQnaAPIV1Service] method instead.
 type QnaAPIV1Service struct {
-	options       []option.RequestOption
-	Documents     QnaAPIV1DocumentService
-	Users         QnaAPIV1UserService
-	PublicUploads QnaAPIV1PublicUploadService
+	options   []option.RequestOption
+	Documents QnaAPIV1DocumentService
+	Users     QnaAPIV1UserService
 }
 
 // NewQnaAPIV1Service generates a new service that applies the given options to
@@ -40,7 +39,6 @@ func NewQnaAPIV1Service(opts ...option.RequestOption) (r QnaAPIV1Service) {
 	r.options = opts
 	r.Documents = NewQnaAPIV1DocumentService(opts...)
 	r.Users = NewQnaAPIV1UserService(opts...)
-	r.PublicUploads = NewQnaAPIV1PublicUploadService(opts...)
 	return
 }
 
